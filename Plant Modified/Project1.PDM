@@ -1,0 +1,276 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=c:\WINDOWS\Desktop\My Work
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+KMH.ICO=E:\Technova\Cement\My Work\KMH.ICO
+BLD.BMP=C:\WINDOWS\Desktop\My Work\BLD.BMP
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+G:\Program Files\Microsoft Office\Office10\EXCEL.EXE=
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=
+C:\WINDOWS\SYSTEM\actskin4.ocx=
+C:\WINDOWS\SYSTEM\PEGRP32C.DLL=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDEDO\SYSTEM\MSFLXGRD.OCX=
+C:\WINDEDO\SYSTEM\TABCTL32.OCX=
+C:\WINDEDO\SYSTEM\COMDLG32.OCX=
+C:\WINDEDO\SYSTEM\COMCTL32.OCX=
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+bld.bmp=
+copy.bmp=
+cut.bmp=
+delete.bmp=
+excel.jpg=
+find.bmp=
+help.bmp=
+jst.bmp=
+c:\windows\desktop\my work\kmh.ico=
+c:\windows\desktop\my work\link.cur=
+new.bmp=
+open.bmp=
+paste.bmp=
+print.bmp=
+rt.bmp=
+save.bmp=
+text.jpg=
+undrln.bmp=
+tipofday.txt=
+technovahead.gif=
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\program files\microsoft office\office10\excel.exe=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\Desktop\CMT.exe=Yes
+C:\WINDOWS\SYSTEM\msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\WINDOWS\SYSTEM\PEGRP32C.DLL=Yes
+C:\WINDOWS\SYSTEM\actskin4.ocx=Yes
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\Pesgo32c.ocx=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\WINDOWS\Desktop\My Work\BLD.BMP=Yes
+C:\WINDOWS\Desktop\My Work\COPY.BMP=Yes
+C:\WINDOWS\Desktop\My Work\CUT.BMP=Yes
+C:\WINDOWS\Desktop\My Work\DELETE.BMP=Yes
+C:\WINDOWS\Desktop\My Work\excel.jpg=Yes
+C:\WINDOWS\Desktop\My Work\FIND.BMP=Yes
+C:\WINDOWS\Desktop\My Work\HELP.BMP=Yes
+C:\WINDOWS\Desktop\My Work\JST.BMP=Yes
+C:\WINDOWS\Desktop\My Work\KMH.ICO=Yes
+C:\WINDOWS\Desktop\My Work\LINK.CUR=Yes
+C:\WINDOWS\Desktop\My Work\NEW.BMP=Yes
+C:\WINDOWS\Desktop\My Work\OPEN.BMP=Yes
+C:\WINDOWS\Desktop\My Work\PASTE.BMP=Yes
+C:\WINDOWS\Desktop\My Work\PRINT.BMP=Yes
+C:\WINDOWS\Desktop\My Work\RT.BMP=Yes
+C:\WINDOWS\Desktop\My Work\SAVE.BMP=Yes
+C:\WINDOWS\Desktop\My Work\text.jpg=Yes
+C:\WINDOWS\Desktop\My Work\UNDRLN.BMP=Yes
+C:\WINDOWS\Desktop\My Work\tipofday.txt=Yes
+C:\WINDOWS\Desktop\My Work\technovahead.gif=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+E:\Technova\Cement\My Work\CMT.exe=$(AppPath)
+C:\WINDEDO\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDEDO\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDEDO\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDEDO\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDEDO\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDEDO\SYSTEM\actskin4.ocx=$(WinSysPath)
+C:\WINDEDO\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDEDO\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDEDO\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDEDO\SYSTEM\Pesgo32c.ocx=$(WinSysPath)
+C:\WINDEDO\SYSTEM\PEGRP32C.DLL=$(WinSysPathSysFile)
+C:\WINDEDO\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDEDO\SYSTEM\Pe3do32c.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDEDO\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+G:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+G:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+G:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+G:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+G:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+G:\WINDOWS\system32\actskin4.ocx=$(WinSysPath)
+G:\Program Files\Microsoft Office\Office10\EXCEL.EXE=$(AppPath)
+G:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+G:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+G:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+G:\WINDOWS\system32\Pesgo32c.ocx=$(WinSysPath)
+G:\WINDOWS\system32\PEGRP32C.DLL=$(WinSysPathSysFile)
+G:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+G:\WINDOWS\system32\Pe3do32c.ocx=$(WinSysPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+G:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+G:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\Technova\Cement\My Work\BLD.BMP=$(AppPath)
+E:\Technova\Cement\My Work\COPY.BMP=$(AppPath)
+E:\Technova\Cement\My Work\CUT.BMP=$(AppPath)
+E:\Technova\Cement\My Work\DELETE.BMP=$(AppPath)
+E:\Technova\Cement\My Work\excel.jpg=$(AppPath)
+E:\Technova\Cement\My Work\FIND.BMP=$(AppPath)
+E:\Technova\Cement\My Work\HELP.BMP=$(AppPath)
+E:\Technova\Cement\My Work\JST.BMP=$(AppPath)
+E:\Technova\Cement\My Work\KMH.ICO=$(AppPath)
+E:\Technova\Cement\My Work\LINK.CUR=$(AppPath)
+E:\Technova\Cement\My Work\NEW.BMP=$(AppPath)
+E:\Technova\Cement\My Work\OPEN.BMP=$(AppPath)
+E:\Technova\Cement\My Work\PASTE.BMP=$(AppPath)
+E:\Technova\Cement\My Work\PRINT.BMP=$(AppPath)
+E:\Technova\Cement\My Work\RT.BMP=$(AppPath)
+E:\Technova\Cement\My Work\SAVE.BMP=$(AppPath)
+E:\Technova\Cement\My Work\text.jpg=$(AppPath)
+E:\Technova\Cement\My Work\UNDRLN.BMP=$(AppPath)
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=$(AppPath)
+E:\Technova\Cement\My Work\tipofday.txt=$(AppPath)
+E:\Technova\Cement\My Work\technovahead.gif=$(AppPath)
+C:\WINDOWS\Desktop\CMT.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\PEGRP32C.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\actskin4.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Pesgo32c.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\Desktop\My Work\BLD.BMP=$(AppPath)
+C:\WINDOWS\Desktop\My Work\COPY.BMP=$(AppPath)
+C:\WINDOWS\Desktop\My Work\CUT.BMP=$(AppPath)
+C:\WINDOWS\Desktop\My Work\DELETE.BMP=$(AppPath)
+C:\WINDOWS\Desktop\My Work\excel.jpg=$(AppPath)
+C:\WINDOWS\Desktop\My Work\FIND.BMP=$(AppPath)
+C:\WINDOWS\Desktop\My Work\HELP.BMP=$(AppPath)
+C:\WINDOWS\Desktop\My Work\JST.BMP=$(AppPath)
+C:\WINDOWS\Desktop\My Work\KMH.ICO=$(AppPath)
+C:\WINDOWS\Desktop\My Work\LINK.CUR=$(AppPath)
+C:\WINDOWS\Desktop\My Work\NEW.BMP=$(AppPath)
+C:\WINDOWS\Desktop\My Work\OPEN.BMP=$(AppPath)
+C:\WINDOWS\Desktop\My Work\PASTE.BMP=$(AppPath)
+C:\WINDOWS\Desktop\My Work\PRINT.BMP=$(AppPath)
+C:\WINDOWS\Desktop\My Work\RT.BMP=$(AppPath)
+C:\WINDOWS\Desktop\My Work\SAVE.BMP=$(AppPath)
+C:\WINDOWS\Desktop\My Work\text.jpg=$(AppPath)
+C:\WINDOWS\Desktop\My Work\UNDRLN.BMP=$(AppPath)
+C:\WINDOWS\Desktop\My Work\tipofday.txt=$(AppPath)
+C:\WINDOWS\Desktop\My Work\technovahead.gif=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+E:\Technova\Cement\My Work\CMT.exe=Yes
+G:\Program Files\Microsoft Office\Office10\EXCEL.EXE=Yes
+E:\Technova\Cement\My Work\BLD.BMP=Yes
+E:\Technova\Cement\My Work\COPY.BMP=Yes
+E:\Technova\Cement\My Work\CUT.BMP=Yes
+E:\Technova\Cement\My Work\DELETE.BMP=Yes
+E:\Technova\Cement\My Work\excel.jpg=Yes
+E:\Technova\Cement\My Work\FIND.BMP=Yes
+E:\Technova\Cement\My Work\HELP.BMP=Yes
+E:\Technova\Cement\My Work\JST.BMP=Yes
+E:\Technova\Cement\My Work\KMH.ICO=Yes
+E:\Technova\Cement\My Work\LINK.CUR=Yes
+E:\Technova\Cement\My Work\NEW.BMP=Yes
+E:\Technova\Cement\My Work\OPEN.BMP=Yes
+E:\Technova\Cement\My Work\PASTE.BMP=Yes
+E:\Technova\Cement\My Work\PRINT.BMP=Yes
+E:\Technova\Cement\My Work\RT.BMP=Yes
+E:\Technova\Cement\My Work\SAVE.BMP=Yes
+E:\Technova\Cement\My Work\text.jpg=Yes
+E:\Technova\Cement\My Work\UNDRLN.BMP=Yes
+C:\Program Files\Microsoft Office\Office10\EXCEL.EXE=Yes
+E:\Technova\Cement\My Work\tipofday.txt=Yes
+E:\Technova\Cement\My Work\technovahead.gif=Yes
+C:\WINDOWS\Desktop\CMT.exe=Yes
+C:\WINDOWS\Desktop\My Work\BLD.BMP=Yes
+C:\WINDOWS\Desktop\My Work\COPY.BMP=Yes
+C:\WINDOWS\Desktop\My Work\CUT.BMP=Yes
+C:\WINDOWS\Desktop\My Work\DELETE.BMP=Yes
+C:\WINDOWS\Desktop\My Work\excel.jpg=Yes
+C:\WINDOWS\Desktop\My Work\FIND.BMP=Yes
+C:\WINDOWS\Desktop\My Work\HELP.BMP=Yes
+C:\WINDOWS\Desktop\My Work\JST.BMP=Yes
+C:\WINDOWS\Desktop\My Work\KMH.ICO=Yes
+C:\WINDOWS\Desktop\My Work\LINK.CUR=Yes
+C:\WINDOWS\Desktop\My Work\NEW.BMP=Yes
+C:\WINDOWS\Desktop\My Work\OPEN.BMP=Yes
+C:\WINDOWS\Desktop\My Work\PASTE.BMP=Yes
+C:\WINDOWS\Desktop\My Work\PRINT.BMP=Yes
+C:\WINDOWS\Desktop\My Work\RT.BMP=Yes
+C:\WINDOWS\Desktop\My Work\SAVE.BMP=Yes
+C:\WINDOWS\Desktop\My Work\text.jpg=Yes
+C:\WINDOWS\Desktop\My Work\UNDRLN.BMP=Yes
+C:\WINDOWS\Desktop\My Work\tipofday.txt=Yes
+C:\WINDOWS\Desktop\My Work\technovahead.gif=Yes
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=CMT
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=CMT
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|CMT]
+Icon1=CMT.exe
+Title1=CMT
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=c:\WINDOWS\Desktop\My Work
+ProjectFolder=C:\WINDOWS\Desktop\My Work
+ServerSideCab=
+File1=c:\WINDOWS\Desktop\My Work\setup.exe
+File2=c:\WINDOWS\Desktop\My Work\Setup.Lst
+File3=c:\WINDOWS\Desktop\My Work\CMT.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
